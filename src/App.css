@@ -2,6 +2,55 @@
   text-align: center;
 }
 
+.circle {
+  border-radius: 100px;
+  margin-right: 2rem;
+}
+
+.college {
+  padding-top: 3rem;
+}
+
+.divv {
+  display: inline-flex;
+  margin-top: 10rem;
+}
+.hone{
+  padding-top: 4.5rem;
+  text-align: left;
+}
+
+.cards {
+  align-items: center;
+}
+
+h1 {
+  padding-top: 4.5rem;
+}
+
+.p1 {
+  padding-top: 7rem;
+}
+
+.card-text {
+  line-height: 2rem;
+  padding-bottom: 1rem;
+  height: 160px;
+  vertical-align: middle;
+  align-items: center;
+  display: flex;
+}
+
+.h5 {
+  text-align: left;
+}
+
+.p2 {
+  margin-left: 15rem;
+  margin-right: 15rem;
+  text-align: center;
+}
+
 .App-logo {
   height: 40vmin;
   pointer-events: none;
