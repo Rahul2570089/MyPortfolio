@@ -16,7 +16,7 @@ const Achievements = () => {
         <h2>Coding Platform Profiles</h2>
         <div className="coding my-3">
           <img className='mx-4' src={images['hackerrank.png']} width='200px' alt="" />
-          <img className='mx-4' src={images['codechef.jpg']} width='200px' alt="" />
+          <img className='mx-4' src={images['codechef.png']} width='200px' alt="" />
           <img className='mx-4' src={images['codeforces.png']} width='200px' alt="" />
           <br />
           <img className='mx-4' src={images['leetcode.png']} width='200px' alt="" />
@@ -41,7 +41,7 @@ const Achievements = () => {
           </div>
           <div className='cert'>
             <img className='circle my-auto' src={images['h2.png']} alt="" width={40} height={40} />
-            <p className='my-auto'>Problem Solving certificate(basic)</p>
+            <p className='my-auto'>Problem Solving certificate (basic)</p>
           </div>
           <div className='cert'>
             <img className='circle my-auto' src={images['udemy.png']} alt="" width={40} height={40} />
