@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/MyPortfolio/static/css/main.8197e8ee.css",
+    "main.js": "/MyPortfolio/static/js/main.69538dff.js",
+    "static/js/787.1ed0c42c.chunk.js": "/MyPortfolio/static/js/787.1ed0c42c.chunk.js",
+    "static/media/image.jpg": "/MyPortfolio/static/media/image.674e20b16fab39951e27.jpg",
+    "static/media/Instagram.webp": "/MyPortfolio/static/media/Instagram.e291349581f33a4f4b3e.webp",
+    "static/media/6.jpg": "/MyPortfolio/static/media/6.d07545844ca6d3b6554e.jpg",
+    "static/media/3.jpg": "/MyPortfolio/static/media/3.c56124a1a1bf5ed9c780.jpg",
+    "static/media/2.png": "/MyPortfolio/static/media/2.f6caa00bcb90fcde736a.png",
+    "static/media/background.jpg": "/MyPortfolio/static/media/background.c367868f4ae4a49c5fb0.jpg",
+    "static/media/LinkedIn.png": "/MyPortfolio/static/media/LinkedIn.ee51856dd542b9673655.png",
+    "static/media/7.jpg": "/MyPortfolio/static/media/7.9a749120d5be7ca24e9d.jpg",
+    "static/media/4.jpg": "/MyPortfolio/static/media/4.4e18d665e5a9fa4afa95.jpg",
+    "static/media/codechef.png": "/MyPortfolio/static/media/codechef.f34769893bc0ff396351.png",
+    "static/media/5.jpg": "/MyPortfolio/static/media/5.da950470309a45c2ba55.jpg",
+    "static/media/twitter.png": "/MyPortfolio/static/media/twitter.cbfb1f67d582fd543f6d.png",
+    "static/media/1.jpg": "/MyPortfolio/static/media/1.15015a82c283430419cf.jpg",
+    "static/media/gcp.png": "/MyPortfolio/static/media/gcp.d3192950227bd482a779.png",
+    "static/media/leetcode.png": "/MyPortfolio/static/media/leetcode.bc6bcdafa75d1f613711.png",
+    "static/media/hackerrank.png": "/MyPortfolio/static/media/hackerrank.29cb90e0c794a992baee.png",
+    "index.html": "/MyPortfolio/index.html",
+    "main.8197e8ee.css.map": "/MyPortfolio/static/css/main.8197e8ee.css.map",
+    "main.69538dff.js.map": "/MyPortfolio/static/js/main.69538dff.js.map",
+    "787.1ed0c42c.chunk.js.map": "/MyPortfolio/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8197e8ee.css",
+    "static/js/main.69538dff.js"
+  ]
+}
