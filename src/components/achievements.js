@@ -12,19 +12,20 @@ const Achievements = () => {
 
   return (
     <>
-      <div className='my-5'>
+      <div className='pt-5 pb-5'>
         <h2>Coding Platform Profiles</h2>
-        <div className="coding my-3">
-          <img className='mx-4' src={images['hackerrank.png']} width='200px' alt="" />
-          <img className='mx-4' src={images['codechef.png']} width='200px' alt="" />
-          <img className='mx-4' src={images['codeforces.png']} width='200px' alt="" />
-          <br />
-          <img className='mx-4' src={images['leetcode.png']} width='200px' alt="" />
-          <img className='mx-4' src={images['github2.png']} width='200px' alt="" />
-          <img className='mx-4' src={images['gcp.png']} width='200px' alt="" />
+        <div className="pt-5 d-flex justify-content-center">
+          <div className='prof col-md-7 bg-white' style={{justifyContent: 'center', boxShadow: '0px 0px 15px white'}} >
+            <img className='hov mx-4' src={images['hackerrank.png']} width='200px' alt=""/>
+            <img className='hov mx-4' src={images['codechef.png']} width='200px' alt=""/>
+            <img className='hov' src={images['codeforces.png']} width='250px' alt=""/>
+            <img className='hov mx-4' src={images['leetcode.png']} width='200px' alt="" />
+            <img className='hov mx-4' src={images['github2.png']} width='200px' alt="" />
+            <img className='hov mx-4' src={images['gcp.png']} width='200px' alt="" />
+          </div>
         </div>
       </div>
-      <div className='pt-5'>
+      <div className='pt-3'>
         <h2>Certificates</h2>
         <div className='show'>
           <div className='cert'>

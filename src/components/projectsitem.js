@@ -3,9 +3,9 @@ import '../App.css'
 
 const ProjectItem = (props) => {
     return (
-        <div className='d-flex justify-content-center mx-5 my-4 col-md-3' style={{height: '32rem'}}>
+        <div className='cardd d-flex justify-content-center my-5 col-xl-4' style={{height: '32rem'}}>
             <div className="card" style={{ width: '20rem' }}>
-                <img className="card-img-top" src={props.photo} alt="..." style={{ height: '15rem', width: '19rem' }} />
+                <img className="card-img-top" src={props.photo} alt="..." style={{ height: '15rem', width: '19.9rem' }} />
                 <div className="card-body">
                     <h5 style={{height: '2rem', color: 'black'}} className="card-title d-flex justify-content-center">{props.name}</h5>
                     <div className='description d-flex justify-content-center'>

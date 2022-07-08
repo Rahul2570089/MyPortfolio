@@ -9,7 +9,7 @@ const Education = () => {
           <h2 style={{fontWeight: 'bolder'}}>College academics</h2>
           <table class="table table-bordered my-4">
             <thead>
-              <tr style={{color: 'white'}}>
+              <tr style={{color: 'white', width: '50'}}>
                 <th scope="col">SEM</th>
                 <th scope="col">SPI</th>
                 <th scope="col">CPI</th>

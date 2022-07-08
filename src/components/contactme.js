@@ -17,26 +17,24 @@ const Contactme = () => {
           <form>
             <div className="formm">
               <h1>Contact me</h1>
-              <label className='d-flex justify-content-start' htmlFor="name">Name</label>
-              <input className='mb-3' type="text" id='name' />
-              <label className='d-flex justify-content-start' htmlFor="email">Email</label>
-              <input className='mb-3' type="email" id='email' />
-              <label className='d-flex justify-content-start' htmlFor="message">Message</label>
-              <textarea className='mb-4' type="text" id='message' />
+              <label className='textform d-flex justify-content-start' htmlFor="name">Name</label>
+              <input className='textform mb-3' type="text" id='name' style={{ width: '100%' }} />
+              <label className='textform d-flex justify-content-start' htmlFor="email">Email</label>
+              <input className='textform mb-3' type="email" id='email' />
+              <label className='textform d-flex justify-content-start' htmlFor="message">Message</label>
+              <textarea className='textform mb-4' type="text" id='message' />
               <button type="submit" className='form-button'>Send</button>
             </div>
           </form>
         </div>
       </div>
-      <h2>You can also contact me</h2>
+      <h2>You can also contact me at</h2>
       <div className="icons-box">
-        <h2>@</h2>
         <img className='icon' src={images['LinkedIn.png']} alt=''></img>
         <img className='icon' src={images['Instagram.webp']} alt=''></img>
         <img className='icon' src={images['github.png']} alt=''></img>
         <img className='icon' src={images['twitter.png']} alt=''></img>
       </div>
-
     </>
   )
 }
