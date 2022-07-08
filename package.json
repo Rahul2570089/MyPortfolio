@@ -1,6 +1,5 @@
 {
   "name": "portfolio",
-  "homepage": "https://rahul2570089.github.io/MyPortfolio/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
