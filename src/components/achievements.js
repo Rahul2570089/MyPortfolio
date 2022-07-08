@@ -52,6 +52,14 @@ const Achievements = () => {
             <img className='circle my-auto' src={images['greatlearning.png']} alt="" width={40} height={40} />
             <p className='my-auto'>Introduction to DevOps</p>
           </div>
+          <div className='cert'>
+            <img className='circle my-auto' src={images['unstop.jpg']} alt="" width={40} height={40} />
+            <p className='my-auto'>Certificate of participation in Hero CoLabs App Challenge 2.0</p>
+          </div>
+          <div className='cert'>
+            <img className='circle my-auto' src={images['internshala.png']} alt="" width={40} height={40} />
+            <p className='my-auto'>(ISP) Internshala Student Partner 27</p>
+          </div>
         </div>
       </div>
       <br />
