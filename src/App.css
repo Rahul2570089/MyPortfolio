@@ -114,6 +114,19 @@ h1 {
   display: block;
 }
 
+.icon:hover {
+  transform: scale(1.3);
+}
+
+a{
+  color: inherit;
+  text-decoration: none;
+}
+
+a:hover{
+  color: inherit;
+}
+
 .form-button {
   background-color: #3a5aff;
   width: 100px;

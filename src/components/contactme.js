@@ -30,10 +30,10 @@ const Contactme = () => {
       </div>
       <h2>You can also contact me at</h2>
       <div className="icons-box">
-        <img className='icon' src={images['LinkedIn.png']} alt=''></img>
-        <img className='icon' src={images['Instagram.webp']} alt=''></img>
-        <img className='icon' src={images['github.png']} alt=''></img>
-        <img className='icon' src={images['twitter.png']} alt=''></img>
+        <a href="https://www.linkedin.com/in/rahul-shinde-b8b7351b9/" target='_blank' rel='noreferrer' ><img className='icon' target='_blank' rel='noreferrer' src={images['LinkedIn.png']} alt=''></img></a>
+        <a href="https://www.instagram.com/rahul_shinde226/" target='_blank' rel='noreferrer' ><img className='icon' target='_blank' rel='noreferrer' src={images['Instagram.webp']} alt=''></img></a>
+        <a href="https://github.com/Rahul2570089" target='_blank' rel='noreferrer'><img className='icon' src={images['github.png']} alt=''></img></a>
+        <a href="https://twitter.com/rahul_22602" target='_blank' rel='noreferrer'><img className='icon' target='_blank' rel='noreferrer' src={images['twitter.png']} alt=''></img></a>
       </div>
     </>
   )
