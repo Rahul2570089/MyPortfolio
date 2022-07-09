@@ -11,8 +11,8 @@ const ProjectItem = (props) => {
                     <div className='description d-flex justify-content-center'>
                         <p className="card-text" style={{color: 'black'}}>{props.description}</p>
                     </div>
-                    <a href="/" className="btn btn-primary mx-2 align-self-end">View Code</a>
-                    <a href="/" className="btn btn-primary mx-2 align-self-end">View demo</a>
+                    <a href={props.url1} target='_blank' rel='noreferrer' className="btn btn-primary mx-2 align-self-end">View Code</a>
+                    <a href={props.url2} target='_blank' rel='noreferrer' className="btn btn-primary mx-2 align-self-end">View demo</a>
                 </div>
             </div>
         </div>
