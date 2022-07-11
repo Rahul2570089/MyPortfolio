@@ -10,7 +10,18 @@
 }
 
 .card {
-  background-color: rgb(237, 233, 233);
+  background-color: rgb(25, 25, 25);
+  box-shadow: white;
+  border-radius: 15px;
+}
+
+.card-img-top {
+  border-top-left-radius: 15px;
+  border-top-right-radius: 15px;
+}
+
+.card {
+  box-shadow: 0 0px 8px 0 white;
 }
 
 .circle {

@@ -34,6 +34,7 @@ const Contactme = () => {
         <a href="https://www.instagram.com/rahul_shinde226/" target='_blank' rel='noreferrer' ><img className='icon' target='_blank' rel='noreferrer' src={images['Instagram.webp']} alt=''></img></a>
         <a href="https://github.com/Rahul2570089" target='_blank' rel='noreferrer'><img className='icon' src={images['github.png']} alt=''></img></a>
         <a href="https://twitter.com/rahul_22602" target='_blank' rel='noreferrer'><img className='icon' target='_blank' rel='noreferrer' src={images['twitter.png']} alt=''></img></a>
+        <a href="https://www.reddit.com/user/Bully_Maguire_O_o" target='_blank' rel='noreferrer'><img className='icon' target='_blank' rel='noreferrer' src={images['reddit.png']} alt=''></img></a>
       </div>
     </>
   )

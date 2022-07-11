@@ -9,7 +9,7 @@ const Navbar = () => {
         <nav className="navbar navbar-expand-lg navbar-dark">
             <div className="container-fluid">
                 <NavLink className="navbar-brand mx-3" to="/">
-                    <img src={photo} alt="" height={50} width={50} style={{borderRadius: '100px'}}/>
+                    <img src={photo} alt="" height={40} width={40} style={{borderRadius: '100px'}}/>
                 </NavLink>
                 <button className="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
                     <span className="navbar-toggler-icon"></span>
