@@ -7,7 +7,7 @@ const Education = () => {
       <div className="back1" style={{fontWeight: 'bolder'}}>
         <div className='college'>
           <h2 style={{fontWeight: 'bolder'}}>College academics</h2>
-          <table class="table table-bordered my-4">
+          <table className="table table-bordered my-4">
             <thead>
               <tr style={{color: 'white', width: '50'}}>
                 <th scope="col">SEM</th>
@@ -61,7 +61,7 @@ const Education = () => {
         </div>
         <div className='college'>
           <h2 style={{fontWeight: 'bolder'}}>12th class</h2>
-          <table class="table table-bordered my-4">
+          <table className="table table-bordered my-4">
             <thead>
               <tr style={{color: 'white'}}>
                 <th scope="col">Exam</th>
@@ -85,7 +85,7 @@ const Education = () => {
         </div>
         <div className='college'>
           <h2 style={{fontWeight: 'bolder'}}>10th class</h2>
-          <table class="table table-bordered my-4">
+          <table className="table table-bordered my-4">
             <thead>
               <tr style={{color: 'white'}}>
                 <th scope="col">Exam</th>
