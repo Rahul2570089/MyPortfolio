@@ -14,15 +14,16 @@ const Contactme = () => {
     <>
       <div className="d-flex justify-content-center mb-5">
         <div className="box mt-5 mx-5">
-          <form action='https://formspree.io/f/mgedjbgn' method="POST">
+          <form action='https://formsubmit.co/24a23ab16ac8c359b7c3409196acc054' method="POST">
             <div className="formm">
               <h1>Contact me</h1>
               <label className='textform d-flex justify-content-start' htmlFor="name">Name</label>
-              <input className='textform mb-3' type="text" id='name' style={{ width: '100%' }} />
+              <input className='textform mb-3' type="text" id='name' style={{ width: '100%' }} required/>
               <label className='textform d-flex justify-content-start' htmlFor="email">Email</label>
-              <input className='textform mb-3' type="email" id='email' />
+              <input className='textform mb-3' type="email" id='email' required/>
+              <input type="hidden" name='_next' value="https://my-portfolio-two-rho.vercel.app/" />
               <label className='textform d-flex justify-content-start' htmlFor="message">Message</label>
-              <textarea className='textform mb-4' type="text" id='message' />
+              <textarea className='textform mb-4' type="text" id='message' required/>
               <button type="submit" className='form-button'>Send</button>
             </div>
           </form>

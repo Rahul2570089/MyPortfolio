@@ -139,10 +139,15 @@ a:hover{
 }
 
 .form-button {
-  background-color: #3a5aff;
+  background-color: transparent;
   width: 100px;
   border-radius: 7px;
   color: white;
+  box-shadow: 0px 0px 3px white;
+}
+
+.form-button:hover {
+  box-shadow: 0px 0px 8px white;
 }
 
 .h5 {
