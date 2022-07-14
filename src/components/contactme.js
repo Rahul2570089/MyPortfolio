@@ -14,7 +14,7 @@ const Contactme = () => {
     <>
       <div className="d-flex justify-content-center mb-5">
         <div className="box mt-5 mx-5">
-          <form>
+          <form action='https://formspree.io/f/mgedjbgn' method="POST">
             <div className="formm">
               <h1>Contact me</h1>
               <label className='textform d-flex justify-content-start' htmlFor="name">Name</label>
