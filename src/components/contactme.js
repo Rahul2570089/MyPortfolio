@@ -18,12 +18,12 @@ const Contactme = () => {
             <div className="formm">
               <h1>Contact me</h1>
               <label className='textform d-flex justify-content-start' htmlFor="name">Name</label>
-              <input className='textform mb-3' type="text" id='name' style={{ width: '100%' }} required/>
+              <input name='name' className='textform mb-3' type="text" id='name' style={{ width: '100%' }} required/>
               <label className='textform d-flex justify-content-start' htmlFor="email">Email</label>
-              <input className='textform mb-3' type="email" id='email' required/>
+              <input name='email' className='textform mb-3' type="email" id='email' required/>
               <input type="hidden" name='_next' value="https://my-portfolio-two-rho.vercel.app/" />
               <label className='textform d-flex justify-content-start' htmlFor="message">Message</label>
-              <textarea className='textform mb-4' type="text" id='message' required/>
+              <textarea name='text' className='textform mb-4' type="text" id='message' required/>
               <button type="submit" className='form-button'>Send</button>
             </div>
           </form>
