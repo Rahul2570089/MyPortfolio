@@ -29,7 +29,7 @@ const Contactme = () => {
           </form>
         </div>
       </div>
-      <h2>You can also contact me at</h2>
+      <h2>Connect me at</h2>
       <div className="icons-box">
         <a href="https://www.linkedin.com/in/rahul-shinde-b8b7351b9/" target='_blank' rel='noreferrer' ><img className='icon' target='_blank' rel='noreferrer' src={images['LinkedIn.png']} alt=''></img></a>
         <a href="https://www.instagram.com/rahul_shinde226/" target='_blank' rel='noreferrer' ><img className='icon' target='_blank' rel='noreferrer' src={images['Instagram.webp']} alt=''></img></a>
