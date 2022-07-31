@@ -58,7 +58,11 @@ const Achievements = () => {
           </a>
           <a className='cert' href='https://drive.google.com/file/d/1gMy23E5dUcGd_IGUjq-PHVMGOjKOmavs/view?usp=sharing' target='_blank' rel='noreferrer'>
             <img className='circle my-auto' src={images['unstop.jpg']} alt="" width={40} height={40} />
-            <p className='my-auto'>Certificate of participation in Hero CoLabs App Challenge 2.0</p>
+            <p className='my-auto'>Participation certificate in Hero CoLabs App Challenge 2.0</p>
+          </a>
+          <a className='cert' href='https://drive.google.com/file/d/1n85a2_ki8N-ms_edBbYSCnZtwZqLVEeM/view?usp=sharing' target='_blank' rel='noreferrer'>
+            <img className='circle my-auto' src={images['unstop.jpg']} alt="" width={40} height={40} />
+            <p className='my-auto'>Participation certificate in Flipkart GRiD 4.0 - Software Development Challenge</p>
           </a>
           <a className='cert' href='https://drive.google.com/file/d/1RmfQQXBrEsX7LXYn9Bxn5kYOzqK5tFqi/view?usp=sharing' target='_blank' rel='noreferrer'>
             <img className='circle my-auto' src={images['internshala.png']} alt="" width={40} height={40} />
