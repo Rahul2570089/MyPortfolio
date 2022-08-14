@@ -18,7 +18,7 @@ const Achievements = () => {
           <div className='prof col-md-7 bg-white' style={{ justifyContent: 'center', boxShadow: '0px 0px 15px white' }} >
             <a href="https://www.hackerrank.com/rahul_226" target="_blank" rel="noreferrer"><img className='hov mx-4' src={images['hackerrank.png']} width='200px' alt="" /></a>
             <a href="https://www.codechef.com/users/rahul_226" target="_blank" rel="noreferrer"><img className='hov mx-4' src={images['codechef.png']} width='200px' alt="" /></a>
-            <a href="https://codeforces.com/profile/rs2570089" target="_blank" rel="noreferrer"><img className='hov mx-4' src={images['codeforces.png']} width='200px' alt="" /></a>
+            <a href="https://auth.geeksforgeeks.org/user/rs2570089/profile" target="_blank" rel="noreferrer"><img className='hov mx-4' src={images['gfg.png']} width='200px' alt="" /></a>
             <a href="https://leetcode.com/rs2570089/" target="_blank" rel="noreferrer"><img className='hov mx-4' src={images['leetcode.png']} width='200px' alt="" /></a>
             <a href="https://github.com/Rahul2570089" target="_blank" rel="noreferrer"><img className='hov mx-4' src={images['github2.png']} width='200px' alt="" /></a>
             <a href="https://www.cloudskillsboost.google/public_profiles/31ababc1-796a-4b18-a38f-8c1ed96a0e24" target="_blank" rel="noreferrer"><img className='hov mx-4' src={images['gcp.png']} width='200px' alt="" /></a>
