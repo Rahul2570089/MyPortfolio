@@ -1,7 +1,7 @@
 import React from 'react'
 import { NavLink } from 'react-router-dom'
 import '../App.css'
-import photo from '../images/logo.jpeg'
+import photo from '../images/logo.jpg'
 
 
 const Navbar = () => {
