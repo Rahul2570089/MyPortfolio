@@ -146,12 +146,24 @@ a:hover{
   box-shadow: 0px 0px 3px white;
 }
 
+.home-button {
+  background-color: transparent;
+  border-radius: 7px;
+  color: white;
+  box-shadow: 0px 0px 3px white;
+}
+
+.home-button:hover {
+  box-shadow: 0px 0px 8px white;
+}
+
 .form-button:hover {
   box-shadow: 0px 0px 8px white;
 }
 
 .h5 {
   text-align: left;
+  margin-bottom: 10px;
 }
 
 .p2 {
