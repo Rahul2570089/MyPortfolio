@@ -36,6 +36,10 @@ const Achievements = () => {
             <img className='circle my-auto' src={images['gdsc.png']} alt="" width={40} height={40} />
             <p className='my-auto'>Flutter UI challenge winner</p>
           </a>
+          <a className='cert' href='https://www.credly.com/go/AgbrqASI' target='_blank' rel='noreferrer'>
+            <img className='circle my-auto' src={images['aws.jpeg']} alt="" width={40} height={40} />
+            <p className='my-auto'>AWS Academy Graduate - AWS Academy Cloud Foundations</p>
+          </a>
           <a className='cert' href='https://www.cloudskillsboost.google/public_profiles/31ababc1-796a-4b18-a38f-8c1ed96a0e24/badges/2230980?utm_medium=social&utm_source=linkedin&utm_campaign=ql-social-share' target='_blank' rel='noreferrer'>
             <img className='circle my-auto' src={images['qwiklabs.jpg']} alt="" width={40} height={40} />
             <p className='my-auto'>Create and Manage Cloud Resources</p>
