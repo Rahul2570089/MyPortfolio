@@ -16,6 +16,7 @@ const Projects = () => {
     <>
       <div className="container my-3">
         <div className="row d-flex justify-content-center">
+          <ProjectItem url1='https://github.com/Rahul2570089/UPI-payment-app' url2='https://youtu.be/zQFa6Iw-Knw' photo={images['4.png']} name='oPay UPI App' description='oPay UPI payment app made using dart backend server ServerPod flutter app using basic CRUD (dummy data) and docker container operations in PostgreSQL.'></ProjectItem>
           <ProjectItem url1='https://github.com/Rahul2570089/ChatApp' url2='https://youtube.com/shorts/j7P6oCw-_gw' photo={images['1.jpg']} name='MyChatApp' description='Fully functional chat application to send text messages. Made in flutter and used firebase as a backend , database used is cloud firestore.'></ProjectItem>
           <ProjectItem url1='https://github.com/Rahul2570089/DUHacks' url2='https://youtu.be/oPXULuc3eiY' photo={images['8.jpeg']} name='Library Management' description='DU Hacks hackathon library online book issue project, used Flutter along with Google Firebase for the back-end which stores data in cloud fire store.'></ProjectItem>
           <ProjectItem url1='https://github.com/Rahul2570089/StocksNews' url2='https://youtu.be/Vz57FiVsymM' photo={images['2.png']} name='StockOps App' description='Stocks info app in which integrated API for list of stocks and News-API for the business and stock market news along with watchlist feature.'></ProjectItem>
