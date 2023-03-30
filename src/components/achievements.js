@@ -44,6 +44,10 @@ const Achievements = () => {
             <img className='circle my-auto' src={images['qwiklabs.jpg']} alt="" width={40} height={40} />
             <p className='my-auto'>Create and Manage Cloud Resources</p>
           </a>
+          <a className='cert' href='https://api.badgr.io/public/assertions/3SQuKUNgTAiFc3Usov0Q3g' target='_blank' rel='noreferrer'>
+            <img className='circle my-auto' src={images['postman.png']} alt="" width={40} height={40} />
+            <p className='my-auto'>Postman API Fundamentals Student Expert</p>
+          </a>
           <a className='cert' href='https://www.hackerrank.com/certificates/411fe8e30e3b' target='_blank' rel='noreferrer'>
             <img className='circle my-auto' src={images['h2.png']} alt="" width={40} height={40} />
             <p className='my-auto'>Problem Solving certificate (basic)</p>
