@@ -28,6 +28,10 @@ const Achievements = () => {
       <div className='pt-3'>
         <h2>Certificates</h2>
         <div className='show'>
+          <a className='cert' href='https://drive.google.com/file/d/1rMzZiJdjRJz17PYZ2RdE4Cj2ICcD9eQv/view?usp=drive_link' target='_blank' rel='noreferrer'>
+            <img className='circle my-auto' src={images['gfg.png']} alt="" width={40} height={40} />
+            <p className='my-auto'>Solving for India Hackathon (GeeksforGeeksXGoogleCloudAMD) institute level winner</p>
+          </a>
           <a className='cert' href='https://drive.google.com/file/d/1AofR22eo-jv4HioMk4WlfGOnn9xVQQSg/view?usp=sharing' target='_blank' rel='noreferrer'>
             <img className='circle my-auto' src={images['forage.png']} alt="" width={40} height={40} />
             <p className='my-auto'>Virtual SWE Program JPMorgan Chase & Co.</p>
