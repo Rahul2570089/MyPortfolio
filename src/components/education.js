@@ -43,8 +43,8 @@ const Education = () => {
               </tr>
               <tr style={{color: 'white'}}>
                 <th scope="row">6</th>
-                <td>-</td>
-                <td>-</td>
+                <td>8.27</td>
+                <td>8.43</td>
               </tr>
               <tr style={{color: 'white'}}>
                 <th scope="row">7</th>
