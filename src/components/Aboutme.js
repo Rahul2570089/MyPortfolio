@@ -8,7 +8,7 @@ const Aboutme = () => {
       <div className="back">
         <div className='divv'>
           <img className='circle' src={photo} width={200} height={200} alt="" />
-          <h1 className='hone'>I'm Rahul Shinde<br></br><p className='h5'>Mobile dev team member at Google Developer Student Clubs DDU</p><h6> <a style={{ paddingRight: '10px' }} href="https://drive.google.com/file/d/1RS6-gVcFpe24uViR03cYMhRYIoJsSdcI/view?usp=drive_link" target='_blank' rel='noreferrer'><button className='home-button'>View my resume</button></a><a href="https://medium.com/@rahul_226" target='_blank' rel='noreferrer'><button className='home-button'>Read my blogs</button></a></h6></h1>
+          <h1 className='hone'>I'm Rahul Shinde<br></br><p className='h5'>Mobile dev team member at Google Developer Student Clubs DDU</p><h6> <a style={{ paddingRight: '10px' }} href="https://drive.google.com/file/d/1TxFKKP1BERpN4QuJVoQtF3nsyNofcAcd/view?usp=sharing" target='_blank' rel='noreferrer'><button className='home-button'>View my resume</button></a><a href="https://medium.com/@rahul_226" target='_blank' rel='noreferrer'><button className='home-button'>Read my blogs</button></a></h6></h1>
         </div>
         <div className="p1">
           <h1>About me</h1>
